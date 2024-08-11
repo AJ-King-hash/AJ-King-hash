@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @AJ-King-hash And I love to create a websites depends on AI something like Fuzzy System and neural network using pure php
